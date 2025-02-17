@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Login.png</file>
+        <file>Resources/RegistroMain.png</file>
+        <file>Resources/Menu.png</file>
+        <file>Resources/whiteBar.png</file>
+        <file>Resources/dynamicWidget.png</file>
+        <file>Resources/crearAdmin.png</file>
+        <file>Resources/myAcc.png</file>
+        <file>Resources/crearMaestro.png</file>
+        <file>Resources/MenuTeachers.png</file>
+        <file>Resources/myAccTeacher.png</file>
+        <file>Resources/modificarMaestro.png</file>
+        <file>Resources/teacherList.png</file>
+        <file>Resources/alumnosList.png</file>
+        <file>Resources/crearAlumno.png</file>
+        <file>Resources/modificarAlumno.png</file>
+        <file>Resources/clasesList.png</file>
+        <file>Resources/crearClase.png</file>
+        <file>Resources/modificarClase.png</file>
+        <file>Resources/asignarAlumnosList.png</file>
+        <file>Resources/asignarList.png</file>
+        <file>Resources/asignarTeacherList.png</file>
+        <file>Resources/maestroClasesList.png</file>
+        <file>Resources/configExamen.png</file>
+        <file>Resources/questionsExams.png</file>
+        <file>Resources/questionsExamsQ.png</file>
+        <file>Resources/Preguntas.png</file>
+        <file>Resources/trash.png</file>
+        <file>Resources/examModify.png</file>
+        <file>Resources/modificarExamen.png</file>
+        <file>Resources/questionsExams2.png</file>
+    </qresource>
+</RCC>
